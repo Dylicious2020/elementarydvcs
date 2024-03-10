@@ -145,7 +145,7 @@
   font-size: 40px;
   color: black;
   margin-top: 4.5%;
-  margin-left: 200%;
+  margin-left: -200%;
   z-index: 10;
   text-decoration: none;
   position: absolute;
@@ -197,7 +197,7 @@
 
   .mail {
    width: 22%;
-   margin-left: 200%;
+   margin-left: -200%;
    margin-top: 3.2%;
    z-index: 100;
    position: absolute;
@@ -207,7 +207,7 @@
 
   .mailred {
     width: 22%;
-   margin-left: 200%;
+   margin-left: -200%;
    margin-top: 3.2%;
    z-index: 100;
    position: absolute;
