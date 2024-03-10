@@ -1,62 +1,30 @@
 
 
-@media (min-width: 1200px)  {
+@media (min-width: 601px)  {
 
  body {
     background-color: #ebe5d5;
 }
 
-  .comingsoon {
-  text-align: center;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  letter-spacing: 0px;
-  font-weight: 500;
-  font-size: 100px;
-  color: black;
-  margin-top: 10%;
-  margin-left: 30%;
-  z-index: -10;
-  position: absolute;
-}
-
-.title1 {
-  text-align:center;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: 800%;
-}
-
-.title2 {
-  text-align: center;
-  font-family: lucida 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  font-size: 800%;
-}
-
-.elemdvcs {
+  .elemdvcs {
   width: 80%;
-  margin-left: 10%;
+  margin-left: 13%;
   margin-top: -34%;
   position: relative;
   z-index: -10;
 }
 
-.vid {
-  position: absolute;
-  margin-left: -65%;
-  margin-top: 20%;
-  width: 50%;
-  height: 50%;
-  z-index: 100;
-}
+
 
 .shop {
   text-align: left;
-  font-family: monospace;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   letter-spacing: 0px;
   font-weight: 500;
   font-size: 40px;
-  color: #bc0505;
+  color: black;
   margin-top: 4.5%;
-  margin-left: 80%;
+  margin-left: 85%;
   z-index: 10;
   text-decoration: none;
   position: absolute;
@@ -64,65 +32,18 @@
 
 .shop:hover {
   opacity: 1;
-  color: #bc0505;
+  color: #0B5F8D;
   font-family: monospace;
 }
 
-.contact {
-  text-align: left;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  letter-spacing: 0px;
-  font-weight: 500;
-  font-size: 40px;
-  color: black;
-  margin-top: 4.5%;
-  margin-left: 88%;
-  z-index: 10;
-  text-decoration: none;
-  position: absolute;
-}
 
-.contact:hover {
-  opacity: 1;
-  color: #1f66a5;
-  font-family: monospace;
-}
-
-.fluttr {
-  margin-top: 15%;
-  margin-left: 5%;
-  width: 35%;
-  height: auto;
-  position: absolute;
-  
-}
-
-.fluttrtext {
-  font-family: monospace;
-  font-size: 50px;
-  position: absolute;
-  margin-top: 4%;
-  margin-left: 5%;
-  text-decoration: none;
-}
-
-
-
-.fluttrsubtext {
-  font-family: monospace;
-  font-size: 25px;
-  position: absolute;
-  margin-top: 8%;
-  margin-left: 5%;
-  text-decoration: none;
-}
 
 
 
   .instagram {
    width: 20%;
-   margin-left: 2%;
-   margin-top: 3.5%;
+   margin-left: 5%;
+   margin-top: 3.55%;
    z-index: 100;
    position: absolute;
   }
@@ -133,7 +54,7 @@
 
 .instagramyellow {
    width: 20%;
-   margin-left: 2%;
+   margin-left: 5%;
    margin-top: -34.8%;
    z-index: 100;
    position: absolute;
@@ -146,7 +67,7 @@
 
   .mail {
    width: 22%;
-   margin-left: 9%;
+   margin-left: 13%;
    margin-top: -34.6%;
    z-index: 100;
    position: absolute;
@@ -158,13 +79,65 @@
 
   .mailred {
     width: 22%;
-   margin-left: 9%;
+   margin-left: 13%;
    margin-top: -34.6%;
    z-index: 100;
    position: absolute;
    z-index: -10;
   }
- 
+
+.fluttr {
+  margin-top: 15%;
+  margin-left: 5%;
+  width: 30%;
+  height: auto;
+  position: absolute;
+  
+}
+
+.fluttrtext {
+  font-family: monospace;
+  font-size: 50px;
+  position: absolute;
+  margin-top: -31%;
+  margin-left: 42%;
+  text-decoration: none;
+}
+
+
+
+.fluttrsubtext {
+  font-family: monospace;
+  font-size: 25px;
+  position: absolute;
+  margin-top: -24%;
+  margin-left: 42%;
+  text-decoration: none;
+}
+
+.fluttrdescription {
+  font-family: monospace;
+  font-size: 18px;
+  position: absolute; 
+  margin-top: -16%;
+  margin-left: 42%;
+  test-decoration: none;
+  width:45%;
+}
+
+.PreorderButton {
+font-family: monospace;
+  font-size: 25px;
+  position: absolute; 
+  margin-top: 46%;
+  margin-left: 5%;
+  text-decoration: underline;
+  width: 45%;
+  Color: #bc0505;
+}
+
+
+  
 .square {
   background-color: white;
   position: absolute;
@@ -188,19 +161,7 @@
 
 }
 
-@media (min-width: 992px) {
 
-
-
-}
-
-@media (min-width: 768px) {
-
-}
-
-@media (min-width: 601px) {
-
-}
 
 @media (max-width: 600px) {
 
@@ -236,7 +197,7 @@
 .elemdvcs {
   width: 130%;
   margin-left: -4%;
-  margin-top: -68%;
+  margin-top: -66%;
   position: absolute;
   z-index: -10;
 }
@@ -300,11 +261,32 @@
 
 .fluttrsubtext {
   font-family: monospace;
-  font-size: 11px;
+  font-size: 13px;
   position: absolute;
-  margin-top: 73%;
-  margin-left: 7%;
+  margin-top: 70%;
+  margin-left: 5%;
   text-decoration: none;
+}
+
+.fluttrdescription {
+  font-family: monospace;
+  font-size: 18px;
+  position: absolute; 
+  margin-top: 20%;
+  margin-left: 52%;
+  test-decoration: none;
+  width:45%;
+}
+
+.PreorderButton {
+font-family: monospace;
+  font-size: 25px;
+  position: absolute; 
+  margin-top: 78%;
+  margin-left: 5%;
+  text-decoration: underline;
+  width: 45%;
+  Color: #bc0505;
 }
 
 

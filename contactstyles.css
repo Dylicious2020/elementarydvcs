@@ -18,7 +18,25 @@
   z-index: -10;
 }
 
+.contacttext {
+text-align: center;
+font-family: monospace;
+font-size: 30px;
+color: black;
+position: absolute;
+margin-top: 15%;
+margin-left: 25%;
+}
 
+.email {
+text-align: center;
+font-family: monospace;
+font-size: 30px;
+color: #C00002;
+position: absolute;
+margin-top: 20%;
+margin-left: 25%;
+}
 
 .shop {
   text-align: left;
@@ -234,6 +252,26 @@
   margin-top: -67%;
   position: absolute;
   z-index: -10;
+}
+
+.contacttext {
+text-align: center;
+font-family: monospace;
+font-size: 30px;
+color: black;
+position: absolute;
+margin-top: 15%;
+margin-left: 2%;
+}
+
+.email {
+text-align: center;
+font-family: monospace;
+font-size: 30px;
+color: #C00002;
+position: absolute;
+margin-top: 35%;
+margin-left: 8%;
 }
 
 .shop {
