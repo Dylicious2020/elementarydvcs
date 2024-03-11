@@ -167,10 +167,11 @@
   font-size: 40px;
   color: black;
   margin-top: 4.5%;
-  margin-left: 200%;
+  margin-left: 0%;
   z-index: 10;
   text-decoration: none;
   position: absolute;
+  visibility: hidden;
 }
 
 
