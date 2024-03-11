@@ -221,7 +221,7 @@
    visibility: hidden;
   }
  
-
+body, html { overflow-x:hidden; }
 
 
 
