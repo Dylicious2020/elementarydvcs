@@ -145,10 +145,11 @@
   font-size: 40px;
   color: black;
   margin-top: 4.5%;
-  margin-left: -200%;
+  margin-left: 50%;
   z-index: 10;
   text-decoration: none;
   position: absolute;
+  visibility: hidden;
 }
 
 .shop:hover {
@@ -201,6 +202,7 @@
    margin-top: 3.2%;
    z-index: 100;
    position: absolute;
+  visibility: hidden;
   }
 
   
@@ -212,6 +214,7 @@
    z-index: 100;
    position: absolute;
    z-index: -10;
+   visibility: hidden;
   }
  
 
