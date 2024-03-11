@@ -156,6 +156,7 @@
   opacity: 1;
   color: #bc0505;
   font-family: monospace;
+ visibility: hidden;
 }
 
 .contact {
