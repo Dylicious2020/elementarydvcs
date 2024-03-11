@@ -156,7 +156,7 @@
   opacity: 1;
   color: #bc0505;
   font-family: monospace;
- visibility: hidden;
+  visibility: hidden;
 }
 
 .contact {
@@ -176,12 +176,14 @@
 
 .instagram {
   width: 5%;
-  margin-left: 200%;
+  margin-left: 0%;
+  visibility: hidden;
 }
 
 .instagramyellow {
   width: 5%;
-  margin-left: 200%;
+  margin-left: 0%;
+  visibility: hidden;
 }
 
 
@@ -199,7 +201,7 @@
 
   .mail {
    width: 22%;
-   margin-left: -200%;
+   margin-left: 0%;
    margin-top: 3.2%;
    z-index: 100;
    position: absolute;
@@ -210,7 +212,7 @@
 
   .mailred {
     width: 22%;
-   margin-left: -200%;
+   margin-left: 0%;
    margin-top: 3.2%;
    z-index: 100;
    position: absolute;
