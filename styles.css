@@ -150,6 +150,7 @@
   text-decoration: none;
   position: absolute;
   visibility: hidden;
+  display: none;
 }
 
 .shop:hover {
@@ -157,6 +158,7 @@
   color: #bc0505;
   font-family: monospace;
   visibility: hidden;
+  display: none;
 }
 
 .contact {
@@ -172,6 +174,7 @@
   text-decoration: none;
   position: absolute;
   visibility: hidden;
+  display: none;
 }
 
 
@@ -179,12 +182,14 @@
   width: 5%;
   margin-left: 0%;
   visibility: hidden;
+  display: none;
 }
 
 .instagramyellow {
   width: 5%;
   margin-left: 0%;
   visibility: hidden;
+  display: none;
 }
 
 
@@ -206,7 +211,8 @@
    margin-top: 3.2%;
    z-index: 100;
    position: absolute;
-  visibility: hidden;
+   visibility: hidden;
+   display: none;
   }
 
   
@@ -219,6 +225,7 @@
    position: absolute;
    z-index: -10;
    visibility: hidden;
+   display: none;
   }
  
 body, html { overflow-x:hidden; }
