@@ -122,8 +122,8 @@
 
 .elemdvcs {
   width: 100%;
-  margin-left: -8%;
-  margin-top: -68%;
+  margin-left: 8%;
+  margin-top: 68%;
   position: absolute;
   z-index: -10;
 }
