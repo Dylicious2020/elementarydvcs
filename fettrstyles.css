@@ -87,7 +87,7 @@
    z-index: -10;
   }
 
-.fluttr {
+.fettr {
   margin-top: 15%;
   margin-left: 5%;
   width: 30%;
@@ -96,7 +96,7 @@
   
 }
 
-.fluttrtext {
+.fettrtext {
   font-family: monospace;
   font-size: 50px;
   position: absolute;
@@ -107,7 +107,7 @@
 
 
 
-.fluttrsubtext {
+.fettrsubtext {
   font-family: monospace;
   font-size: 25px;
   position: absolute;
@@ -116,7 +116,7 @@
   text-decoration: none;
 }
 
-.fluttrdescription {
+.fettrdescription {
   font-family: monospace;
   font-size: 18px;
   position: absolute; 
