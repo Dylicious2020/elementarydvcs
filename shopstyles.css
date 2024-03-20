@@ -322,6 +322,38 @@
   text-decoration: none;
 }
 
+ .fettr {
+  margin-top: 20%;
+  margin-left: 5%;
+  width: 45%;
+  height: auto;
+  position: absolute;
+  
+}
+
+.fettrtext {
+  font-family: monospace;
+  font-size: 20px;
+  position: absolute;
+  margin-top: 65%;
+  margin-left: 5%;
+  text-decoration: none;
+}
+
+.fettrtext:hover {
+  text-decoration: underline;
+  color: #bc0505;
+}
+
+.fettrsubtext {
+  font-family: monospace;
+  font-size: 11px;
+  position: absolute;
+  margin-top: 73%;
+  margin-left: 7%;
+  text-decoration: none;
+}
+
 
 .instagram {
   width: 5%;
