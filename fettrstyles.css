@@ -290,6 +290,59 @@ font-family: monospace;
   Color: #bc0505;
 }
 
+ .fettr {
+  margin-top: 20%;
+  margin-left: 5%;
+  width: 45%;
+  height: auto;
+  position: absolute;
+  
+}
+
+.fettrtext {
+  font-family: monospace;
+  font-size: 20px;
+  position: absolute;
+  margin-top: 65%;
+  margin-left: 5%;
+  text-decoration: none;
+}
+
+.fettrtext:hover {
+  text-decoration: underline;
+  color: #bc0505;
+}
+
+.fettrsubtext {
+  font-family: monospace;
+  font-size: 13px;
+  position: absolute;
+  margin-top: 70%;
+  margin-left: 5%;
+  text-decoration: none;
+}
+
+.fettrdescription {
+  font-family: monospace;
+  font-size: 18px;
+  position: absolute; 
+  margin-top: 20%;
+  margin-left: 52%;
+  test-decoration: none;
+  width:45%;
+}
+
+.PreorderButton {
+font-family: monospace;
+  font-size: 25px;
+  position: absolute; 
+  margin-top: 78%;
+  margin-left: 5%;
+  text-decoration: underline;
+  width: 45%;
+  Color: #bc0505;
+}
+
 
 .instagram {
   width: 5%;
